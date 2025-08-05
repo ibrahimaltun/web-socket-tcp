@@ -5,8 +5,10 @@
 
 
 ## To Do
+- create a new TCP socket
 - create a websocket connection
 - 
+
 
 ## Doing
 
