@@ -5,7 +5,7 @@
 
 
 ## To Do
-- 
+- create a new TCP socket
 
 ## Doing
 
