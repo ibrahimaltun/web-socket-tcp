@@ -5,6 +5,7 @@
 
 
 ## To Do
+- create a websocket connection
 - 
 
 ## Doing
